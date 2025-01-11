@@ -1,0 +1,6 @@
+projectKey=my-flask-app
+serverUrl=http://172.17.0.1:9000
+serverVersion=9.4.0.54424
+dashboardUrl=http://172.17.0.1:9000/dashboard?id=my-flask-app
+ceTaskId=AZRVKeEW-amLMsmr-mqc
+ceTaskUrl=http://172.17.0.1:9000/api/ce/task?id=AZRVKeEW-amLMsmr-mqc
