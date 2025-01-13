@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: flask-app
-        image: daryladriene/flask-app-linux:v129
+        image: daryladriene/flask-app-linux:v130
         ports:
         - containerPort: 5000
